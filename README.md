@@ -20,6 +20,17 @@ This is an advanced calculator written in Python that allows users to perform ba
 ---
 
 ## Project Structure
+advanced_calculator/ │-- calculator/ │ │-- init.py │ │-- operations.py # Defines mathematical operations │ │-- input_handler.py # Handles input and validation │ │-- calculator.py # Calculator logic │ │-- main.py # Entry point │-- README.md # Documentation │-- LICENSE # MIT License
 
 
 # advanced_calculator
+
+---
+
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/advanced_calculator.git
+   cd advanced_calculator
