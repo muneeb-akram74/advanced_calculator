@@ -32,5 +32,6 @@ advanced_calculator/ │-- calculator/ │ │-- init.py │ │-- operations.py
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/advanced_calculator.git
-   cd advanced_calculator
+   https://github.com/muneeb-akram74/advanced_calculator.git
+
+Once cloned, run it on VS Code or any other suitable platform.
